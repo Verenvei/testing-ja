@@ -1,1 +1,2 @@
 # testing-ja
+project pwd
